@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+    background-image : url('https://maximumwallhd.com/wp-content/uploads/2016/12/fond-ecran-wallpaper-image-fonds-ecran-abstrait-noir-et-blanc-15.jpg');
+    background-size: fill;
+    padding: 2%;
+    margin: 1% 25%;
+    border : 0.5px solid black;
+    border-radius: 50px;
+}
+
+.name {
+    color : black ;
+    text-shadow: 2px 2px 5px red;
+    font-family: Lobster;
+}
+
+.photo {
+    margin-top: 2%;  
+    border: 2px solid black;
+    border-radius: 10%;
+    box-shadow: 1px;
+    box-shadow: 10px 10px 8px #888888;
+}
+
+.address {
+    font-style : italic;
+    font-weight: 400;
+    font-family: Lobster;
+}
